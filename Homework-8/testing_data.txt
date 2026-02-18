@@ -1,0 +1,8 @@
+In the Department of Computer Science at University of Alabama at Birmingham, I teach Computer Science and Artificial Intelligence and I am a [MASK].
+At University of Alabama at Birmingham, I study computer science and I am a [MASK].
+We are at the University of Alabama at [MASK].
+In the School of Medicine, he works as a [MASK].
+In the School of Medicine, she works as a [MASK].
+They work in the School of [MASK].
+
+

@@ -1,0 +1,202 @@
+I [MASK] Computer Science in the Department of Computer Science at University of Alabama at Birmingham.
+
+I teach [MASK] Science in the Department of Computer Science at University of Alabama at Birmingham.
+
+I teach Computer [MASK] in the Department of Computer Science at University of Alabama at Birmingham.
+
+I [MASK] Computer [MASK] in the Department of Computer Science at University of Alabama at Birmingham.
+
+I teach Computer Science in the [MASK] of Computer Science at University of Alabama at Birmingham.
+
+I teach Computer Science in the Department of [MASK] Science at University of Alabama at Birmingham.
+
+I teach Computer Science in the Department of Computer [MASK] at University of Alabama at Birmingham.
+
+I teach Computer Science in the Department of Computer Science at [MASK] of Alabama at Birmingham.
+
+I teach Computer Science in the Department of Computer Science at University of [MASK] at Birmingham.
+
+I teach Computer Science in the Department of Computer Science at University of Alabama at [MASK].
+
+I [MASK] Computer Science in the [MASK] of Computer Science at University of Alabama at Birmingham.
+
+I teach [MASK] Science in the Department of [MASK] Science at University of Alabama at Birmingham.
+
+I am a [MASK] teaching Artificial Intelligence in the Department of Computer Science at University of Alabama at Birmingham.
+
+I am a Professor teaching [MASK] Intelligence in the Department of Computer Science at University of Alabama at Birmingham.
+
+I am a Professor teaching Artificial [MASK] in the Department of Computer Science at University of Alabama at Birmingham.
+
+I am a [MASK] teaching [MASK] Intelligence in the Department of Computer Science at University of Alabama at Birmingham.
+
+I am a Professor teaching Artificial Intelligence in the [MASK] of Computer Science at University of Alabama at Birmingham.
+
+I am a Professor teaching Artificial Intelligence in the Department of [MASK] Science at University of Alabama at Birmingham.
+
+I am a Professor teaching Artificial Intelligence in the Department of Computer [MASK] at University of Alabama at Birmingham.
+
+I am a [MASK] teaching Artificial Intelligence in the Department of Computer Science at [MASK] of Alabama at Birmingham.
+
+I am a [MASK] at University of Alabama at Birmingham.
+
+I am a student at [MASK] of Alabama at Birmingham.
+
+I am a student at University of [MASK] at Birmingham.
+
+I am a student at University of Alabama at [MASK].
+
+I [MASK] a student at University of Alabama at Birmingham.
+
+I am [MASK] student at University of Alabama at Birmingham.
+
+I am a [MASK] at [MASK] of Alabama at Birmingham.
+
+I study [MASK] science as a student at University of Alabama at Birmingham.
+
+I study computer [MASK] as a student at University of Alabama at Birmingham.
+
+I study computer science as a [MASK] at University of Alabama at Birmingham.
+
+I study computer science as a student at [MASK] of Alabama at Birmingham.
+
+I [MASK] computer science as a student at University of Alabama at Birmingham.
+
+I study [MASK] [MASK] as a student at University of Alabama at Birmingham.
+
+I study computer science as a student at University of [MASK] at Birmingham.
+
+A [MASK] and a student are at University of Alabama at Birmingham.
+
+A professor and a [MASK] are at University of Alabama at Birmingham.
+
+A professor and a student are at [MASK] of Alabama at Birmingham.
+
+A professor and a student are at University of [MASK] at Birmingham.
+
+A [MASK] and a [MASK] are at University of Alabama at Birmingham.
+
+A professor and a student [MASK] at University of Alabama at Birmingham.
+
+She is a [MASK] working in the School of Medicine.
+
+She is a nurse working in the [MASK] of Medicine.
+
+She is a nurse working in the School of [MASK].
+
+She [MASK] a nurse working in the School of Medicine.
+
+She is [MASK] nurse working in the School of Medicine.
+
+She is a nurse [MASK] in the School of Medicine.
+
+He is a [MASK] working in the School of Medicine.
+
+He is a doctor working in the [MASK] of Medicine.
+
+He is a doctor working in the School of [MASK].
+
+He [MASK] a doctor working in the School of Medicine.
+
+He is [MASK] doctor working in the School of Medicine.
+
+He is a doctor [MASK] in the School of Medicine.
+
+A [MASK] and a nurse work in the School of Medicine.
+
+A doctor and a [MASK] work in the School of Medicine.
+
+A doctor and a nurse work in the [MASK] of Medicine.
+
+A doctor and a nurse work in the School of [MASK].
+
+A [MASK] and a [MASK] work in the School of Medicine.
+
+A doctor and a nurse [MASK] in the School of Medicine.
+
+In the [MASK] of Computer Science at University of Alabama at Birmingham, I teach Computer Science and Artificial Intelligence and I am a [MASK].
+
+In the Department of [MASK] Science at University of Alabama at Birmingham, I teach Computer Science and Artificial Intelligence and I am a [MASK].
+
+In the Department of Computer [MASK] at University of Alabama at Birmingham, I teach Computer Science and Artificial Intelligence and I am a [MASK].
+
+In the Department of Computer Science at [MASK] of Alabama at Birmingham, I teach Computer Science and Artificial Intelligence and I am a [MASK].
+
+In the Department of Computer Science at University of [MASK] at Birmingham, I teach Computer Science and Artificial Intelligence and I am a [MASK].
+
+In the Department of Computer Science at University of Alabama at [MASK], I teach Computer Science and Artificial Intelligence and I am a [MASK].
+
+In the Department of Computer Science at University of Alabama at Birmingham, I [MASK] Computer Science and Artificial Intelligence and I am a [MASK].
+
+In the Department of Computer Science at University of Alabama at Birmingham, I teach [MASK] Science and Artificial Intelligence and I am a [MASK].
+
+In the Department of Computer Science at University of Alabama at Birmingham, I teach Computer [MASK] and Artificial Intelligence and I am a [MASK].
+
+In the Department of Computer Science at University of Alabama at Birmingham, I teach Computer Science and [MASK] Intelligence and I am a [MASK].
+
+In the Department of Computer Science at University of Alabama at Birmingham, I teach Computer Science and Artificial [MASK] and I am a [MASK].
+
+In the Department of Computer Science at University of Alabama at Birmingham, I teach Computer Science and Artificial Intelligence and I [MASK] a [MASK].
+
+At [MASK] of Alabama at Birmingham, I study computer science and I am a [MASK].
+
+At University of [MASK] at Birmingham, I study computer science and I am a [MASK].
+
+At University of Alabama at [MASK], I study computer science and I am a [MASK].
+
+At University of Alabama at Birmingham, I [MASK] computer science and I am a [MASK].
+
+At University of Alabama at Birmingham, I study [MASK] science and I am a [MASK].
+
+At University of Alabama at Birmingham, I study computer [MASK] and I am a [MASK].
+
+At University of Alabama at Birmingham, I study computer science and I [MASK] a [MASK].
+
+At University of Alabama at Birmingham, I study computer science and I am [MASK] [MASK].
+
+We [MASK] at the University of Alabama at [MASK].
+
+We are at the [MASK] of Alabama at [MASK].
+
+We are at the University of [MASK] at [MASK].
+
+We are at the University of Alabama at [MASK].
+
+We [MASK] [MASK] the University of Alabama at [MASK].
+
+In the [MASK] of Medicine, he works as a [MASK].
+
+In the School of [MASK], he works as a [MASK].
+
+In the School of Medicine, he [MASK] as a [MASK].
+
+In the School of Medicine, he works [MASK] a [MASK].
+
+In the [MASK] of Medicine, he [MASK] as a [MASK].
+
+In the [MASK] of Medicine, she works as a [MASK].
+
+In the School of [MASK], she works as a [MASK].
+
+In the School of Medicine, she [MASK] as a [MASK].
+
+In the School of Medicine, she works [MASK] a [MASK].
+
+In the [MASK] of Medicine, she [MASK] as a [MASK].
+
+They [MASK] in the School of [MASK].
+
+They work in the [MASK] of [MASK].
+
+They work in the School of [MASK].
+
+They [MASK] [MASK] the School of [MASK].
+
+They work [MASK] the School of [MASK].
+
+[MASK] work in the School of [MASK].
+
+They work in the [MASK] of [MASK].
+
+
+
