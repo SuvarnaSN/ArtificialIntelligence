@@ -326,7 +326,7 @@ if __name__ == "__main__":
             break
         
         elif ";" not in userInput:
-            print("\n❌ Error: Invalid format. Please use 'question; method'")
+            print("\n Error: Invalid format. Please use 'question; method'")
             print("Example: What is the average salary?; semantic\n")
             
         else:
@@ -335,7 +335,7 @@ if __name__ == "__main__":
             methodofRetrieval = inputs[1].strip().lower()
             
             if methodofRetrieval not in ['keyword', 'semantic']:
-                print("\n❌ Error: Method must be either 'keyword' or 'semantic'\n")
+                print("\n Error: Method must be either 'keyword' or 'semantic'\n")
                 continue
             
             print(f"\n🔍 Processing...")
@@ -346,10 +346,10 @@ if __name__ == "__main__":
             
             for res in responseObtained:
                 print("\n" + "=" * 50)
-                print("📝 QUESTION:")
+                print(" QUESTION:")
                 print(res['question'])
-                print("\n🔍 METHOD:")
+                print("\n METHOD:")
                 print(res['dataretrievalMethod'])
-                print("\n💡 ANSWER:")
+                print("\n ANSWER:")
                 print(res['response'])
                 print("=" * 50 + "\n")
