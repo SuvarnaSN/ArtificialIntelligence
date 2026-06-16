@@ -75,4 +75,4 @@ def chat():
     chat_history.append(("assistant", response))
     print("-"*80)
 
-chat()
+# chat()
