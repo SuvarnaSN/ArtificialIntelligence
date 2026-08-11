@@ -1,1 +1,1 @@
-# Different Projects using Artificial Intelligence
+# Projects
